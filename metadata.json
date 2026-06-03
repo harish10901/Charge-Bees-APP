@@ -1,0 +1,6 @@
+{
+  "name": "Charge Bees",
+  "description": "Premium EV Charging Station Booking App with real-time slot selection, navigation simulation, Stripe payment processing flow, offline database caching, biometric login, dark mode, and energy metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
